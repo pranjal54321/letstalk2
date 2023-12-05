@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "564867256057",
+    "project_id": "chattingapp-34d8a",
+    "storage_bucket": "chattingapp-34d8a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564867256057:android:0588ca0a27069b9c5e1c28",
+        "android_client_info": {
+          "package_name": "com.example.letstalk"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf0U8775vrmVZdU3ZKJi1BwDz7R3O9R7g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
